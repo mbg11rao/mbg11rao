@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/mbg_rao" target="blank"><img src="https://img.shields.io/twitter/follow/mbg_rao?logo=twitter&style=for-the-badge" alt="mbg_rao" /></a> </p>
 
-- 💢 **I m ML Scientist, Data Analyst, Game Developer, Web Developer , a pythoneer and C++ expert ✨**
+- 💢 **I m software engineering, Data Analyst, Game Developer, Web Developer , a java and C++ expert ✨**
 
 - 🌱 **I’m currently learning new technologies**
 
-- 👯 **2022 Goals: Contribute more to Open Source project**
+- 👯 **2023 Goals: Contribute more to Open Source project**
 
 - 🤝 **I ’m looking to collaborate with ML Scientists, Data Analysts & Game Developers**
 
